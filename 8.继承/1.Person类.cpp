@@ -1,3 +1,4 @@
+//一个能听、说、写、行走的Person类
 #include<iostream>
 #include<windows.h>
 #include<string.h>
